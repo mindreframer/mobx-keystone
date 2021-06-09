@@ -6783,7 +6783,7 @@ __metadata:
     chalk: ^4.1.1
     cross-env: ^7.0.3
     mobx: ^6.3.2
-    mobx-keystone: "workspace:packages/lib"
+    mobx-keystone-mindreframer: "workspace:packages/lib"
     mobx-state-tree: ^5.0.1
     shx: ^0.3.3
     tslib: ^2.2.0
@@ -19280,9 +19280,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"mobx-keystone@workspace:packages/lib":
+"mobx-keystone-mindreframer@workspace:packages/lib":
   version: 0.0.0-use.local
-  resolution: "mobx-keystone@workspace:packages/lib"
+  resolution: "mobx-keystone-mindreframer@workspace:packages/lib"
   dependencies:
     "@types/jest": ^26.0.23
     "@types/node": ^15.6.0
@@ -25354,7 +25354,7 @@ resolve@1.18.1:
     gatsby-plugin-typescript: ^2.12.1
     gatsby-theme-docz: ^2.3.1
     mobx: ^6.3.2
-    mobx-keystone: "workspace:packages/lib"
+    mobx-keystone-mindreframer: "workspace:packages/lib"
     mobx-react: ^7.2.0
     raw-loader: ^4.0.2
     react: ^17.0.2

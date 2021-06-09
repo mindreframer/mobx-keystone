@@ -1,5 +1,5 @@
 {
-  "name": "mobx-keystone",
+  "name": "mobx-keystone-mindreframer",
   "version": "0.59.0",
   "description": "A MobX powered state management solution based on data trees with first class support for Typescript, snapshots, patches and much more",
   "keywords": [
